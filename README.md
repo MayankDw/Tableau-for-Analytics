@@ -11,5 +11,8 @@ Tableau for Analytics and Data Interpretation
 8. Tableau doesn't know at this point what to do with it. if you want to group by the values, you have to give the data to count
 9. We want Tableau to create a chart that visualizes the number of grants awarded per arts discipline. In order to do that, we need Tableau to count up the values for each category
 10. Drag and Drop!
-11. 
+11. Select the Graph you want to see.
+12. Then drag and drop another measure to create a stacked bar chart to show how Application Institution Type correlates with Application Arts Discipline.
+13. The stacked up view shows the group by two values - Application Arts Discipline & Application Institution Type
+14. Now Let's convert the existing graph into a stacked bar chart.
    
